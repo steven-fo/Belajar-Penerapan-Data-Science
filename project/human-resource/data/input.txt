@@ -1,0 +1,13 @@
+{
+    'OverTime': 'Yes',
+    'JobRole': 'Research Scientist',
+    'MaritalStatus': 'Single',
+    'BusinessTravel': 'Travel_Rarely',
+    'JobLevel': 2,
+    'JobInvolvement': 3,
+    'MonthlyIncome': 4800,
+    'TotalWorkingYears': 8,
+    'EnvironmentSatisfaction': 3,
+    'WorkLifeBalance': 2,
+    'YearsAtCompany': 4
+}
