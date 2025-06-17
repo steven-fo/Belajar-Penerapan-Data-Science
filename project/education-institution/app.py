@@ -7,8 +7,8 @@ import pandas as pd
 @st.cache_resource
 def load_model():
     try:
-        model = joblib.load('model/random_forest_model.pkl')
-        scaler = joblib.load('model/scaler.pkl')
+        model = joblib.load('project/education-institution/model/random_forest_model.pkl')
+        scaler = joblib.load('project/education-institution/model/scaler.pkl')
         return model, scaler
     except FileNotFoundError:
         st.error("Model files not found. Please ensure the model files are in the 'model' directory.")
