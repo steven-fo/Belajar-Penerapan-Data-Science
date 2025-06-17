@@ -37,7 +37,7 @@ Dalam proyek ini, sebuah prototipe telah disiapkan untuk melakukan prediksi meng
   Buka terminal pada direktori proyek, kemudian ketik:
 
   ```bash
-  streamlit run project/education-institution/app.py
+  streamlit run app.py
   ```
 
 - **Akses melalui web**
