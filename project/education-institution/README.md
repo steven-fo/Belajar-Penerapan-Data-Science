@@ -26,6 +26,8 @@ pip install -r requirements.txt
 ```
 
 ## Business Dashboard
+[Link Dashboard](https://lookerstudio.google.com/reporting/559db778-a114-46ee-92c3-ae5ca71bccac)
+
 Dashboard ini menampilkan ringkasan statistik dan visualisasi performa akademik mahasiswa berdasarkan status akhir mereka: lulus, masih aktif, dan dropout. Terlihat bahwa mahasiswa yang dropout memiliki jumlah mata kuliah yang disetujui serta nilai (grade) yang jauh lebih rendah dibanding mahasiswa yang lulus, baik pada semester pertama maupun kedua.
 
 Polanya menunjukkan bahwa mahasiswa yang dropout sudah mengalami kesulitan akademik sejak semester pertama. Jumlah mata kuliah yang diluluskan dan nilai yang rendah bisa menjadi indikator awal risiko dropout. Informasi ini berguna untuk mendeteksi mahasiswa berisiko dan merancang intervensi lebih dini.
